@@ -1,2 +1,2 @@
 # Weather_TGbot
-Бот погоды написанный на библиотеке aiogram и использующий OpenWeatherAPI
+Бот погоды написанный на python библиотеке aiogram и использующий OpenWeatherAPI
